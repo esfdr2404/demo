@@ -91,3 +91,7 @@ function checkAge(age) {
   return age > 18;
 }
 console.log(newAges);
+
+
+
+document.getElementById("demo").innerHTML ="Hello world";
